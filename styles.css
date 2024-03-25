@@ -340,6 +340,16 @@ span {
 
 }
 
+.ubuntu-400-16-white {
+    font-family: var(--font-family-base);
+    color: var(--color-white);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0;
+
+}
+
 .ubuntu-400-16-brown {
     font-family: var(--font-family-base);
     color: var(--color-brown);
